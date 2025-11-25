@@ -1,2 +1,2 @@
 # DSA-Lab-File
-lab programs written in C++
+DSA lab programs written in C++
